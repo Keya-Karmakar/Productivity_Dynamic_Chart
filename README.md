@@ -68,13 +68,13 @@ This project is designed to strengthen Excel dashboard development skills for as
 Example:
 
 ```
-images/dashboard.png
+Dashboard.png
 ```
 
 or
 
 ```markdown
-![Dashboard](images/dashboard.png)
+![Dashboard](Dashboard.png)
 ```
 
 ---
@@ -109,7 +109,7 @@ Dynamic-Productivity-Dashboard/
 │
 ├── Productivity Dynamic Chart.xlsx
 ├── README.md
-├── dashboard.png
+├── Dashboard.png
 ```
 
 ---
